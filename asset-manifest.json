@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/contact-react-app%20/static/css/main.2d50abcf.css",
-    "main.js": "/contact-react-app%20/static/js/main.6f9a6c7d.js",
+    "main.js": "/contact-react-app%20/static/js/main.ae44b47a.js",
     "static/media/Spinner.gif": "/contact-react-app%20/static/media/Spinner.5b35cef0ce49e2af8525.gif",
     "static/media/no-found.gif": "/contact-react-app%20/static/media/no-found.8a3fe9fd54d21c85d260.gif",
     "static/media/man-taking-note.png": "/contact-react-app%20/static/media/man-taking-note.578e1679689f39584d15.png",
     "index.html": "/contact-react-app%20/index.html",
     "main.2d50abcf.css.map": "/contact-react-app%20/static/css/main.2d50abcf.css.map",
-    "main.6f9a6c7d.js.map": "/contact-react-app%20/static/js/main.6f9a6c7d.js.map"
+    "main.ae44b47a.js.map": "/contact-react-app%20/static/js/main.ae44b47a.js.map"
   },
   "entrypoints": [
     "static/css/main.2d50abcf.css",
-    "static/js/main.6f9a6c7d.js"
+    "static/js/main.ae44b47a.js"
   ]
 }
