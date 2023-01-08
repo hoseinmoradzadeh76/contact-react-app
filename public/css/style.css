@@ -1,0 +1,14 @@
+button{
+    margin: 1em;
+    padding: 2em;
+    border-radius: 1em;
+    border: none;
+    background-color: teal;
+   
+}
+button:hover{
+    opacity: 100%;
+}
+body{
+    background-color: #282c34;
+}
